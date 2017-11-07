@@ -42,4 +42,6 @@
     ```
     $ vagrant up
     ```
-5. Enjoy
+5. Open you Browser
+6. Access the address http://192.168.10.11:8080/ 
+7. Enjoy
